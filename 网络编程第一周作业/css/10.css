@@ -1,0 +1,28 @@
+.div1{
+    width: 100%;
+    height:100px;
+    text-align: center;
+    font-size: 30px;
+}
+.div2{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+.div3{
+    width: 100%;
+    height: 400px;
+    text-align: center;
+}
+.d1{
+    text-align: right;
+    height: 120px;
+}
+.d2{
+    text-align: left;
+    height: 120px;
+}
+table{
+    margin: 0 auto;
+    border: 0px solid;
+}

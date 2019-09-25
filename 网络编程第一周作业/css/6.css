@@ -1,0 +1,27 @@
+.table1{
+    width: 1000px;
+    height: 800px;
+    text-align: center;
+}
+.table2{
+    width: 1000px;
+    height: 300px;
+    text-align: center;
+}
+.table3{
+    width: 1000px;
+    height: 500px;
+    text-align: center;
+}
+.r1{
+    height: 300px;
+}
+.d1{
+    width: 100%;
+}
+.r2{
+    height: 25%;
+}
+.d2{
+    width: 50%;
+}

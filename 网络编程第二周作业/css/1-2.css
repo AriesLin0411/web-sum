@@ -1,0 +1,39 @@
+html,body{
+    width: 100%;
+    height: 100%;
+}
+body{
+    margin: 0;
+}
+.div1{
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+}
+.top{
+    width: 100%;
+    height: 20%;
+    background-color: black;
+}
+.buttom{
+    width: 100%;
+    height: 80%;
+}
+.left{
+    width: 15%;
+    height: 100%;
+    background-color: aqua;
+    float: left;
+}
+.mid{
+    width: 70%;
+    height: 100%;
+    background-color: brown;
+    float: left;
+}
+.right{
+    width: 15%;
+    height: 100%;
+    background-color: blueviolet;
+    float: left;
+}

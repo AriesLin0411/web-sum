@@ -1,0 +1,60 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+}
+
+ul, li {
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+    border: solid 1px rgb(194, 186, 187);
+    background-color: rgb(194, 186, 187);
+    width: 83px;
+    height: 26px;
+    line-height: 26px;
+    text-align: center;
+    cursor: pointer;
+}
+
+div {
+    width: 803px;
+    height: 600px;
+    background-color: white;
+    border: solid 0px skyblue;
+    display: none;
+}
+
+    div.content {
+        display: block;
+    }
+
+li.table {
+    background-color: skyblue;
+    border: solid 1px skyblue;
+}
+
+table {
+    width: 100%;
+    height: 40px;
+}
+
+.d1 {
+    font-size: 20px;
+    text-align: right;
+    width: 15%;
+    height: 100%;
+}
+
+.d2 {
+    text-align: left;
+    width: 85%;
+    height: 100%;
+}
+
+hr {
+    height: 1px;
+    border: none;
+    border-top: 1px dashed #000000;
+}

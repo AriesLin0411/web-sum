@@ -1,0 +1,236 @@
+﻿
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html, body,form {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+ul, li {
+    list-style: none;
+}
+
+.ul1 {
+    width: 100%;
+    height: 30%;
+}
+
+li.rb {
+    display: inline-block;
+    border: 0;
+    background-color: #fff;
+    width: 18%;
+    height: 30%;
+    line-height: 100%;
+    text-align: center;
+    cursor: pointer;
+    margin: 0;
+}
+
+div.hide {
+    display: none;
+}
+
+div.content {
+    display: block;
+    width: 100%;
+    height: 100px;
+    background-color: #fff;
+    border: solid 0px skyblue;
+    font-size: 15px;
+    text-align: center;
+}
+
+li.table {
+    display: inline-block;
+    background-color: #fff;
+    border: 0;
+    width: 18%;
+    height: 30%;
+    line-height: 100%;
+    text-align: center;
+    cursor: pointer;
+    margin: 0;
+    color: orangered;
+    text-decoration: underline;
+}
+
+.mid {
+    width: 80%;
+    height: 70%;
+    float: left;
+}
+
+.left {
+    width: 19%;
+    height: 100%;
+    float: left;
+    border: 2px solid orange;
+}
+
+.right {
+    width: 80%;
+    height: 100%;
+    float: left;
+}
+
+.right-top {
+    width: 100%;
+    height: 5%;
+    float: left;
+    border: 2px solid orange;
+}
+
+.right-buttom {
+    width: 100%;
+    height: 95%;
+    float: left;
+}
+
+.right-buttom-left {
+    width: 65%;
+    height: 100%;
+    float: left;
+}
+
+.right-buttom-left-top {
+    width: 100%;
+    height: 60%;
+    float: left;
+}
+
+.right-buttom-left-top-left {
+    width: 80%;
+    height: 100%;
+    float: left;
+}
+
+.right-buttom-left-top-right {
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+
+.right-buttom-left-buttom {
+    width: 100%;
+    height: 40%;
+    float: left;
+}
+
+.right-buttom-left-buttom-left {
+    width: 80%;
+    height: 100%;
+    float: left;
+}
+
+.right-buttom-left-buttom-right {
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+
+.right-buttom-right {
+    width: 35%;
+    height: 100%;
+    float: left;
+}
+
+.right-buttom-right-top {
+    width: 100%;
+    height: 30%;
+}
+
+.right-buttom-right-mid {
+    width: 100%;
+    height: 30%;
+}
+
+.right-buttom-right-buttom {
+    width: 100%;
+    height: 40%;
+}
+
+.tr1 {
+    height: 50%;
+}
+
+.tb1 {
+    height: 100%;
+    width: 100%;
+    text-align: left;
+    border: 0;
+    margin: 0 auto;
+}
+
+.td1 {
+    width: 50%;
+}
+
+.td2 {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+    a:link {
+        color: #000;
+    }
+    /* 未访问的链接 */
+    a:visited {
+        color: #000;
+    }
+    /* 已访问的链接 */
+    a:hover {
+        color: orangered;
+    }
+    /* 鼠标划过链接 */
+    a:active {
+        color: orangered;
+    }
+/* 已选中的链接 */
+.orange1 {
+    background-color: orangered;
+    width: 100%;
+    height: 5%;
+    color: #fff;
+    text-align: center;
+}
+
+.side-li {
+    background-color: #fff;
+    text-align: left;
+    margin: 0 15% 0 10%;
+    font-family: 宋体;
+    font-size: 13px;
+    height: 90%;
+}
+
+.li-bar {
+    display: inline-block;
+    width: 8%;
+    height: 100%;
+    cursor: pointer;
+}
+
+.li-bar2 {
+    display: inline-block;
+    width: 2%;
+    height: 100%;
+}
+
+.ul2 {
+    width: 100%;
+    height: 100%;
+    background-color: orange;
+    color: #fff;
+    border: 0;
+}
